@@ -1,0 +1,7 @@
+[theme]
+base="dark"
+primaryColor="#A0D2DB" # Your chosen accent color (optional)
+backgroundColor="#0E1117" # Default Streamlit dark background
+secondaryBackgroundColor="#1E2127" # Slightly lighter dark for elements
+textColor="#FAFAFA" # Default dark theme text color
+font="sans serif" # Or "serif", "monospace"
